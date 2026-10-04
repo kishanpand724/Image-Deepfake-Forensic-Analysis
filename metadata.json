@@ -1,0 +1,6 @@
+{
+  "name": "Full-Image Deepfake Detector & Forensics Studio",
+  "description": "Comprehensive full-image and video deepfake detection system with Grad-CAM heatmap visualization, Error Level Analysis (ELA), frequency domain inspection, and calibrated forensic reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
